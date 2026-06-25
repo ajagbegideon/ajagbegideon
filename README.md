@@ -65,7 +65,7 @@ A premium bags and luggage business website.
 ## 📫 Connect With Me
 
 💼 LinkedIn:
-https://www.linkedin.com/in/ajagbe-gideon-000604340
+https://www.linkedin.com/in/ajagbegideon
 
 🌐 Portfolio:
 https://gideon-ajagbe.vercel.app
