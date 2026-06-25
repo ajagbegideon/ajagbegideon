@@ -69,3 +69,19 @@ https://www.linkedin.com/in/ajagbe-gideon-000604340
 
 🌐 Portfolio:
 https://gideon-ajagbe.vercel.app
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajagbegideon&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ajagbegideon&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajagbegideon&layout=compact&theme=tokyonight" />
+</p>
